@@ -1,0 +1,39 @@
+
+		body{
+			margin: 0 15%;
+			text-align: justify;
+		}
+		h1{
+          font-size: 13px;
+		} 
+		h1,strong{
+			color: orange;					
+			
+		}  
+		.big_title{
+			font-size: 37px;
+		}
+		.left{
+			width: 50%;
+			float: left;
+			padding-right: 5%;
+		}
+		img{
+			width:100%;
+		}
+		h2{
+			font-size: 15px;
+		}
+		.editor{
+			text-align: end;
+			font-weight: bold;
+		}
+		footer{
+			width: 100%;
+			clear: both;
+			font-weight: bold;
+		}
+		time{
+			font-weight: normal;
+		}
+		
